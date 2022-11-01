@@ -63,6 +63,11 @@ nav > a:hover{
 
 body{
     background-color: var(--cor01);
+    background-image: url('../imagens/terra-media3.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 main{
